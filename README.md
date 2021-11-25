@@ -1,24 +1,5 @@
-# README
+Projeto está sendo desenvolvido por João Marcos Barreto de Sá Pereira.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+O projeto conta ainda em fase inicial, e visa cumprir como objetivo, o desafio para o processo seletivo da empresa Mobile2You.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Para mais informações, favor enviar um e-mail para jmarcos@joywork.com.br
