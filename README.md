@@ -5,7 +5,7 @@ O projeto conta ainda em fase inicial, e visa cumprir como objetivo, o desafio p
 
 Para mais informações, favor enviar um e-mail para jmarcos@joywork.com.br
 
-# PROGRESSO DO DESAFIO 10%
+
 
 ### Para encontrar o desafio de lógica de programação, [clique aqui](https://github.com/jmarcos589/Desafio-Ruby)
 Teste de lógica de programação finalizado.
